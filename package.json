@@ -1,7 +1,14 @@
 {
   "name": "nextjs-starter",
+  "author": "Dennis Kortekaas",
   "version": "0.1.0",
   "private": true,
+  "homepage": "Yhttps://github.com/dkortekaas/nextjs-starter",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": "please-use-yarn"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
